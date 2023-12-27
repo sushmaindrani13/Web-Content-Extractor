@@ -22,3 +22,4 @@ Enter the URL and keyword in the new Window opened and click on Get Data.
 
 A Browser window is opened with 2 tabs : Original page of the URL and Extracted Result Page.# Web-Content-Extractor
 # Web-Content-Extractor
+# Web-Content-Extractor
