@@ -1,0 +1,7 @@
+pyqt5-tools
+urllib3
+nltk
+bs4
+inscriptis
+validators
+PyMySQL
